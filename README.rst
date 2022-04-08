@@ -30,6 +30,15 @@ more options are available. The full list is display in /HELP or on the `Inno Se
 If you wish to follow the development of the new Munin Node for Windows, go to `this repository <https://github.com/munin-monitoring/munin-node-windows/>`_
 If you wish to follow the development of the new Munin Node for Windows, go to `this repository<https://github.com/munin-monitoring/munin-node-windows/>`_
 
+External hyperlinks, like `Python
+<https://www.python.org/>`_.
+
+* External hyperlinks, like `Python
+<https://www.python.org/>`_.
+
+* External hyperlinks, like `Python
+<https://jrsoftware.org/ishelp/index.php?topic=setupcmdline>`_.
+
 Command Line Usage
 ------------------
 
