@@ -26,6 +26,7 @@ The installer may be run with different command-line flags.
 
 more options are available. The full list is display in /HELP or on the `Inno Setup website<https://jrsoftware.org/ishelp/index.php?topic=setupcmdline>`_
 more options are available. The full list is display in /HELP or on the `Inno Setup website<https://jrsoftware.org/ishelp/index.php>`_
+more options are available. The full list is display in /HELP or on the `Inno Setup website <https://jrsoftware.org/ishelp/index.php>`_
 If you wish to follow the development of the new Munin Node for Windows, go to `this repository <https://github.com/munin-monitoring/munin-node-windows/>`_
 If you wish to follow the development of the new Munin Node for Windows, go to `this repository<https://github.com/munin-monitoring/munin-node-windows/>`_
 
